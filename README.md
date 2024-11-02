@@ -1,18 +1,12 @@
 # CODSOFT_DATA-SCIENCE
 Author: DEBJEET PALIT
 
-This file consists of five tasks and every task is performed with the below mentioned objective.
+This file consists of four tasks and every task is performed with the below mentioned objective.
 
 TASK 1: TITANIC SURVIVAL PREDICTION
 
 Using the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not.
 The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
-
-Task 2: MOVIE RATING PREDICTION WITH PYTHON
-
-Building a model that predicts the rating of a movie based on features like genre, director, and actors. You can use regression techniques to tackle this problem.
-The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or
-critics.
 
 Task 3: IRIS FLOWER CLASSIFICATION
 
